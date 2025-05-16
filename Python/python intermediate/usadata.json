@@ -1,0 +1,74 @@
+{
+"states":[
+  {
+    "name": "Alabama",
+    "abbreviation": "AL",
+    "capital": "Montgomery",
+    "population": 4903185,
+    "area_sq_mi": 52420
+  },
+  {
+    "name": "Alaska",
+    "abbreviation": "AK",
+    "capital": "Juneau",
+    "population": 731545,
+    "area_sq_mi": 665384
+  },
+  {
+    "name": "Arizona",
+    "abbreviation": "AZ",
+    "capital": "Phoenix",
+    "population": 7278717,
+    "area_sq_mi": 113990
+  },
+  {
+    "name": "Arkansas",
+    "abbreviation": "AR",
+    "capital": "Little Rock",
+    "population": 3017804,
+    "area_sq_mi": 53179
+  },
+  {
+    "name": "California",
+    "abbreviation": "CA",
+    "capital": "Sacramento",
+    "population": 39512223,
+    "area_sq_mi": 163695
+  },
+  {
+    "name": "Colorado",
+    "abbreviation": "CO",
+    "capital": "Denver",
+    "population": 5758736,
+    "area_sq_mi": 104094
+  },
+  {
+    "name": "Connecticut",
+    "abbreviation": "CT",
+    "capital": "Hartford",
+    "population": 3565287,
+    "area_sq_mi": 5543
+  },
+  {
+    "name": "Delaware",
+    "abbreviation": "DE",
+    "capital": "Dover",
+    "population": 973764,
+    "area_sq_mi": 2489
+  },
+  {
+    "name": "Florida",
+    "abbreviation": "FL",
+    "capital": "Tallahassee",
+    "population": 21477737,
+    "area_sq_mi": 65758
+  },
+  {
+    "name": "Georgia",
+    "abbreviation": "GA",
+    "capital": "Atlanta",
+    "population": 10617423,
+    "area_sq_mi": 59425
+  }
+]
+}

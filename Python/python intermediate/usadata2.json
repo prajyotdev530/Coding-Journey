@@ -1,0 +1,64 @@
+{
+  "states": [
+    {
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "capital": "Montgomery",
+      "area_sq_mi": 52420
+    },
+    {
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "capital": "Juneau",
+      "area_sq_mi": 665384
+    },
+    {
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "capital": "Phoenix",
+      "area_sq_mi": 113990
+    },
+    {
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "capital": "Little Rock",
+      "area_sq_mi": 53179
+    },
+    {
+      "name": "California",
+      "abbreviation": "CA",
+      "capital": "Sacramento",
+      "area_sq_mi": 163695
+    },
+    {
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "capital": "Denver",
+      "area_sq_mi": 104094
+    },
+    {
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "capital": "Hartford",
+      "area_sq_mi": 5543
+    },
+    {
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "capital": "Dover",
+      "area_sq_mi": 2489
+    },
+    {
+      "name": "Florida",
+      "abbreviation": "FL",
+      "capital": "Tallahassee",
+      "area_sq_mi": 65758
+    },
+    {
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "capital": "Atlanta",
+      "area_sq_mi": 59425
+    }
+  ]
+}
