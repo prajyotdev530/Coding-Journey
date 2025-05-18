@@ -13,4 +13,8 @@ model=linear_model.LinearRegression()
 model.fit(studyhours_X_train,marks_Y_train)
 prediction=model.predict(studyhours_X_test)
 print(mean_squared_error(marks_Y_test,prediction))
+plt.scatter(studyhours_X_test,marks_Y_test)
+plt.plot(studyhours_X_test,prediction)
+plt.show()
 print(prediction)
+
